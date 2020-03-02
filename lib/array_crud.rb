@@ -5,7 +5,7 @@ end
 
 def create_an_array
   array = [item1, item2, item3, itme4]
-  
+
 end
 
 def add_element_to_end_of_array(array, element)
